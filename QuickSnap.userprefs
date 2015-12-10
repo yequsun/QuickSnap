@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\Shot.cs">
+    <Files>
+      <File FileName="Assets\__Scripts\Shot.cs" Line="72" Column="23" />
+      <File FileName="Assets\__Scripts\TargetCamera.cs" Line="71" Column="35" />
+      <File FileName="Assets\__Scripts\ProtoTools\Utils.cs" Line="358" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
