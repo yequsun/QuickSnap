@@ -46,7 +46,7 @@ public class Shot {
 
 	static public void LoadShots(){
 		shots = new List<Shot> ();
-		if (PlayerPrefs.HasKey (prefsName)) {
+		if (!PlayerPrefs.HasKey (prefsName)) {
 			return;
 		}
 
