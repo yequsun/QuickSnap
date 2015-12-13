@@ -451,7 +451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e239f70cd7ee9fe4782185ec2197ad50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  editMode: 0
+  editMode: 1
   fpCamera: {fileID: 110489547}
   maxPosDeviation: 1
   maxTarDeviation: .5
